@@ -78,9 +78,9 @@ _Using a tutorial I created a Frogger-like and a minigame on itch_
 - **Repositories:** (https://github.com/lupie2/frogger_tutorial)
 - **Itch Release:** (https://lupiedev.itch.io/ballpoint-destroyer) 
 
-### 📊 eSports Data Analysis
+### 📊 Data Warehouse Project
 
-_Building a pipeline with League of Legends data using the Riot Games API for analytics and prediction_
+_Conception of a Data Warehouse and pipeline_
 
 - **Stack:** Python · PostgreSQL · PowerBI
 - **Status:** `[ Status: In Progress ]`
