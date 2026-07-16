@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year IT specialist for data and process analysis (_Fachinformatiker Daten-/Prozessanalyse_) specializing in **Data Analytics & Engineering**.
+I am an IHK certified IT specialist for data and process analytics (_Fachinformatiker Daten-/Prozessanalyse_) specializing in **Data Analytics & Engineering**.
 
 My strong analytics foundation allows me to understand how data and databases are structured. I apply this knowledge to design efficient database systems and construct automated pipelines directly into the analytics cycle.
 
