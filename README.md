@@ -2,7 +2,7 @@
 
 # Hi, I'm Lukas 👋
 
-### Final-Year FIDP | Data Analyst & Engineer
+### Fachinformatiker Daten-/Prozessanalyse | IT Specialist Data & Process Analytics
 
 **Data Analytics · Data Engineering · Business Intelligence · Cloud Engineering · Game Development**
 
