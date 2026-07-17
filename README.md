@@ -47,35 +47,35 @@ _I am actively executing a structured career roadmap to bridge the gap between a
 _My capstone project: A pipeline using the GitHub API to extract, clean and visualise repository activity data_
 
 - **Stack:** Python · GitHub API · Pandas · Matplotlib · CSV
-- **Repositories:** (https://github.com/lupie2/GitHub_Activity) 
+- **Repositories:** (https://github.com/LupieDev/GitHub_Activity) 
 
 ### 📊 Analysing data from the Titanic
 
 _Analysing and visualising survivor data from the Titanic_
 
 - **Stack:** Python · Pandas · Seaborn · Matplotlib 
-- **Repositories:** (https://github.com/lupie2/school/blob/main/scr/Titanic_Tagesaufgabe.ipynb) 
+- **Repositories:** (https://github.com/LupieDev/school/blob/main/scr/Titanic_Tagesaufgabe.ipynb) 
 
 ### 📚 Palmer Penguin Species Analysis
 
 _Analysing data from the palmer penguin species and training basic machine learning models for prediction_
 
 - **Stack:** Python · Pandas · Seaborn · Sklearn
-- **Repositories:** (https://github.com/lupie2/school/blob/main/scr/penguins_pietsch.ipynb) 
+- **Repositories:** (https://github.com/LupieDev/school/blob/main/scr/penguins_pietsch.ipynb) 
 
 ### 📚 Recipe Website and Database
 
 _A basic website connected to a database storing recipes with the ability to like and comment_
 
 - **Stack:** Javascript · SQL · HTML
-- **Repositories:** (https://github.com/lupie2/javascript) 
+- **Repositories:** (https://github.com/LupieDev/javascript) 
 
 ### 📚 Game Development in Godot Engine
 
 _Using a tutorial I created a Frogger-like and a minigame on itch_
 
 - **Stack:** Godot Engine · GDScript
-- **Repositories:** (https://github.com/lupie2/frogger_tutorial)
+- **Repositories:** (https://github.com/LupieDev/frogger_tutorial)
 - **Itch Release:** (https://lupiedev.itch.io/ballpoint-destroyer) 
 
 ### 📊 Data Warehouse Project
