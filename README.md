@@ -75,7 +75,7 @@ _A basic website connected to a database storing recipes with the ability to lik
 _Using a tutorial I created a Frogger-like and a minigame on itch_
 
 - **Stack:** Godot Engine · GDScript
-- **Repositories:** (https://github.com/LupieDev/frogger_tutorial)
+- **Repositories:** (https://github.com/LupieDev/ballpoint_destroyer)
 - **Itch Release:** (https://lupiedev.itch.io/ballpoint-destroyer) 
 
 ### 📊 Data Warehouse Project
