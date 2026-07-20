@@ -83,6 +83,7 @@ _Using a tutorial I created a Frogger-like and a minigame on itch_
 _Conception of a Data Warehouse and pipeline_
 
 - **Stack:** Python · PostgreSQL · PowerBI
+- **Repositories:** (https://github.com/LupieDev/sql-data-warehouse)
 - **Status:** `[ Status: In Progress ]`
 
 ### 📊 DDoSteroid
